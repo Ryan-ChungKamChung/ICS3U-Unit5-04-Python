@@ -62,7 +62,7 @@ def main():
     # Output
     # https://stackoverflow.com/questions/
     # 455612/limiting-floats-to-two-decimal-points
-    print("The volume of the cylinder is: {:.2f}cm²".
+    print("The volume of the cylinder is: {:.2f}cm³".
           format(calculated_volume))
 
 
